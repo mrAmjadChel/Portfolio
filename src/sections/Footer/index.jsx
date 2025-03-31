@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="mb-9">
       <div className="flex justify-end">
         <span>
-          powered by React and Tailwind CSS
+          Powered by React and Tailwind CSS
           <FontAwesomeIcon className = "ml-2" icon={faGithub}></FontAwesomeIcon>
         </span>
       </div>
