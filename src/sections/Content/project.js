@@ -5,7 +5,7 @@ import exp2022 from "../../assets/exp2022-02.jpg";
 export const data = [
   {
     date: "2022",
-    title: "Develop web application (web shop)",
+    title: "web application (web shop)",
     link: "https://sa09data.firebaseapp.com/",
     // materials: [
     //   {
