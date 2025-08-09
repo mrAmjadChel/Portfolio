@@ -5,8 +5,8 @@ const Tech = ({ isHighlight, data }) => {
         {data.map((e, i) => (
           <div
             key={`${e}-tech-${i}`}
-            className={`px-2 py-1 text-primaryAccent bg-primarySubcontent rounded-md ${
-              isHighlight ? "text-primaryTitle" : " "
+            className={`px-2 py-1 text-primaryAccent bg-primaryBase rounded-md ${
+              isHighlight ? "bg-primaryAccent text-primaryBg" : " "
             }`}
           >
             {e}

@@ -4,7 +4,7 @@ export const data = {
   name: "Amjad Chelaeh",
   title: "Computer Engineering",
   caption:
-    "Caption Caption Lorem ipsum dolor sit, amet consectetur adipisicing elit Asperiores adipisci repellat nihil deserunt quae dolorem aliquid accusamus neque distinctio ipsum alias libero optio et Maiores rerumeaque labore consequatur veniam",
+    "Hey there! I’m Amjad, but you can call me Aim. I graduated with a degree in Computer Engineering from Prince of Songkla University.",
   resume: fileResume,
   btntext: "View Resume",
 };

@@ -15,7 +15,7 @@ const Header = () => {
       </div>
       <div className="mt-4">
         <a href={data.resume} target="_blank">
-          <span className="rounded-md bg-primaryTitle text-gray-300 px-4 py-2">
+          <span className="rounded-md bg-primaryTitle text-primaryContent px-4 py-2">
             {data.btntext}
             <span className="rotate-90 inline-block ml-2 text-sm">
               <FontAwesomeIcon className="animate-bounce" icon={faArrowDown} />

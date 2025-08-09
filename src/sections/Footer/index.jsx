@@ -5,10 +5,12 @@ const Footer = () => {
   return (
     <div className="mb-9">
       <div className="flex justify-end">
-        <span>
-          Powered by React and Tailwind CSS
-          <FontAwesomeIcon className = "ml-2" icon={faGithub}></FontAwesomeIcon>
-        </span>
+        <a href="https://github.com/mrAmjadChel/Portfolio" target="_blank">
+          <span>
+            Powered by React and Tailwind CSS
+            <FontAwesomeIcon className="ml-2" icon={faGithub}></FontAwesomeIcon>
+          </span>
+        </a>
       </div>
     </div>
   );
