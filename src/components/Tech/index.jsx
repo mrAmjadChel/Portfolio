@@ -6,7 +6,7 @@ const Tech = ({ isHighlight, data }) => {
           <div
             key={`${e}-tech-${i}`}
             className={`px-2 py-1 text-primaryAccent bg-primaryBase rounded-md ${
-              isHighlight ? "bg-primaryAccent text-primaryBg" : " "
+              isHighlight ? "bg-primaryContent text-primaryBg" : " "
             }`}
           >
             {e}
