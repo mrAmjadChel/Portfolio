@@ -1,4 +1,4 @@
-import fileResume from "../../assets/AmjadChelaeh-Resume.pdf";
+import fileResume from "../../assets/amjad-resume.pdf";
 
 export const data = {
   name: "Amjad Chelaeh",
