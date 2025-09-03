@@ -1,7 +1,8 @@
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
-import { faFilePowerpoint, faFilePdf } from "@fortawesome/free-solid-svg-icons";
+import { faFilePowerpoint, faFilePdf, faCertificate } from "@fortawesome/free-solid-svg-icons";
 import fileInternshipPonit from "../../assets/6210110739-presentation-final.pdf";
 import fileInternshipPDF from "../../assets/6210110739-Second-hand-phone-price-range-estimate-system.pdf";
+import fileCertInternshipPDF from "../../assets/cert-intern.pdf"
 
 export const data = [
   {
@@ -16,6 +17,10 @@ export const data = [
       {
         type: faFilePdf,
         link: fileInternshipPDF,
+      },
+      {
+        type: faCertificate,
+        link: fileCertInternshipPDF,
       }
     ],
     descriptions: [
